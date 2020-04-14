@@ -8,6 +8,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_Form):
         self.setupUi(self)
         self.label.setText("Haz clic en el botón")
         self.pushButton.setText("Presióname")
+        
 
 
 if __name__ == "__main__":
