@@ -1,4 +1,16 @@
+astroid==2.3.3
 certifi==2020.4.5.1
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+pycrypto==2.6.1
+pylint==2.4.4
+PyMySQL==0.9.3
 PyQt5==5.14.2
 PyQt5-sip==12.7.2
+simple-crypt==4.1.7
+six==1.14.0
+SQLAlchemy==1.3.16
 wincertstore==0.2
+WMI==1.4.9
+wrapt==1.12.1
